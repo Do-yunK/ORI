@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "1e99c7ff8aa99aed3ff0753361ab371833efbb16ece8550ff8eff9fd435442fc"
+    }
+  ],
+  "containerPath" : "/Users/doyunk/Documents/Codex/2026-11-15/referenced-chatgpt-conversation-this-is-an/YogaMVP.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx27.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/doyunk/Documents/Codex/2026-11-15/referenced-chatgpt-conversation-this-is-an/work/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/doyunk/Documents/Codex/2026-11-15/referenced-chatgpt-conversation-this-is-an/work/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/doyunk/Documents/Codex/2026-11-15/referenced-chatgpt-conversation-this-is-an/work/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/doyunk/Documents/Codex/2026-11-15/referenced-chatgpt-conversation-this-is-an/work/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/doyunk/Documents/Codex/2026-11-15/referenced-chatgpt-conversation-this-is-an/work/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/doyunk/Documents/Codex/2026-11-15/referenced-chatgpt-conversation-this-is-an/work/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "macosx27.2"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
