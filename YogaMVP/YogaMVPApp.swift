@@ -5,7 +5,7 @@ struct YogaMVPApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-                .frame(minWidth: 960, minHeight: 680)
+                .frame(minWidth: 1220, minHeight: 720)
         }
     }
 }
